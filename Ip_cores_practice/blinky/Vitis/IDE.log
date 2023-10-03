@@ -1,0 +1,6 @@
+11:22:28 ERROR : Workspace location D:\Project self\Ip_cores_practice\blinky\Vitis contains spaces. Please switch to a workspace without spaces in its path.
+11:22:32 INFO  : Launching XSCT server: xsct.bat -n  -interactive D:\Project self\Ip_cores_practice\blinky\Vitis\temp_xsdb_launch_script.tcl
+11:22:37 INFO  : Registering command handlers for Vitis TCF services
+11:22:38 INFO  : Platform repository initialization has completed.
+11:22:41 ERROR : (XSDB Server)couldn't read file "D:\Project": no such file or directory
+
